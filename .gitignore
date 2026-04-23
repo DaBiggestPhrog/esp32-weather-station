@@ -1,41 +1,28 @@
-# Prerequisites
-*.d
+secrets.h
+config.h
+*.env
+.env
+credentials.h
 
-# Compiled Object files
-*.slo
-*.lo
-*.o
-*.obj
+# Arduino build
+*.elf
+*.bin
+*.hex
+build/
+*.ino.globals.h
 
-# Precompiled Headers
-*.gch
-*.pch
+# Node.js
+node_modules/
+npm-debug.log*
+*.log
 
-# Linker files
-*.ilk
+# System
+.DS_Store
+Thumbs.db
+desktop.ini
 
-# Debugger Files
-*.pdb
-
-# Compiled Dynamic libraries
-*.so
-*.dylib
-*.dll
-
-# Fortran module files
-*.mod
-*.smod
-
-# Compiled Static libraries
-*.lai
-*.la
-*.a
-*.lib
-
-# Executables
-*.exe
-*.out
-*.app
-
-# debug information files
-*.dwo
+# IDE
+.vscode/
+.idea/
+*.suo
+*.user
