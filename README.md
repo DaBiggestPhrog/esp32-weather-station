@@ -216,7 +216,7 @@ Zainstaluj przez `Sketch → Include Library → Manage Libraries`:
 
 ---
 
-## Autor
+## Autorzy
 Bielec M. | Fiszbach W. | Chmielewski G.
 
 Projekt zrealizowany w ramach przedmiotu **Technologie i oprogramowanie chmurowe**  
